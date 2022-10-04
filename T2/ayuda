@@ -1,0 +1,257 @@
+0 False ??
+
+HOLA QUE ONDA QUE PEX
+
+ordered_triangles
+
+vertexes de t
+0.37 0.46
+0.0 0.0
+3.36 0.36
+
+vertexes de t
+0.37 0.46
+0.0 0.0
+2.88 1.07
+
+vertexes de t
+1.55 1.85
+0.37 0.46
+2.88 1.0770340105260718
+[<Vertex.Vertex object at 0x0E22D9B8>, <Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de n
+1.5521751412575626 1.8503894044281162
+0.3729328949545918 0.4651623082844214
+2.8802177824077835 1.0770340105260718
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 1
+[<Vertex.Vertex object at 0x0E22D538>, <Vertex.Vertex object at 0x0E22D9B8>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de t
+1.6824864215884903 1.9741685231933639
+1.5521751412575626 1.8503894044281162
+2.8802177824077835 1.0770340105260718
+[<Vertex.Vertex object at 0x0E22D538>, <Vertex.Vertex object at 0x0E22D9B8>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de n
+1.6824864215884903 1.9741685231933639
+1.5521751412575626 1.8503894044281162
+2.8802177824077835 1.0770340105260718
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 1
+[<Vertex.Vertex object at 0x0E22D538>, <Vertex.Vertex object at 0x0E22D8C8>, <Vertex.Vertex object at 0x0E242388>] vertexes de t
+1.6824864215884903 1.9741685231933639
+2.8802177824077835 1.0770340105260718
+2.0 3.0
+[<Vertex.Vertex object at 0x0E22D538>, <Vertex.Vertex object at 0x0E22D8C8>, <Vertex.Vertex object at 0x0E242388>] vertexes de n
+1.6824864215884903 1.9741685231933639
+2.8802177824077835 1.0770340105260718
+2.0 3.0
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 1
+[<Vertex.Vertex object at 0x0E22DD48>, <Vertex.Vertex object at 0x0E242388>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de t
+3.559395811934089 1.2237222256258335
+2.0 3.0
+2.8802177824077835 1.0770340105260718
+[<Vertex.Vertex object at 0x0E22DD48>, <Vertex.Vertex object at 0x0E242388>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de n
+3.559395811934089 1.2237222256258335
+2.0 3.0
+2.8802177824077835 1.0770340105260718
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 1
+[<Vertex.Vertex object at 0x0E22DD48>, <Vertex.Vertex object at 0x0E22DAC0>, <Vertex.Vertex object at 0x0E242388>] vertexes de t
+3.559395811934089 1.2237222256258335
+4.0 1.5
+2.0 3.0
+[<Vertex.Vertex object at 0x0E22DD48>, <Vertex.Vertex object at 0x0E22DAC0>, <Vertex.Vertex object at 0x0E242388>] vertexes de n
+3.559395811934089 1.2237222256258335
+4.0 1.5
+2.0 3.0
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 1
+[<Vertex.Vertex object at 0x0E22D820>, <Vertex.Vertex object at 0x0E242388>, <Vertex.Vertex object at 0x0E22DAC0>] vertexes de t
+4.0 4.0
+2.0 3.0
+4.0 1.5
+[<Vertex.Vertex object at 0x0E22D820>, <Vertex.Vertex object at 0x0E242388>, <Vertex.Vertex object at 0x0E22DAC0>] vertexes de n
+4.0 4.0
+2.0 3.0
+4.0 1.5
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 1
+[<Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22DFE8>, <Vertex.Vertex object at 0x0E22D640>] vertexes de t
+0.3729328949545918 0.4651623082844214
+0.0 0.0
+3.364833927242616 0.3644636216334316
+[<Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22DFE8>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de n
+0.3729328949545918 0.4651623082844214
+0.0 0.0
+2.8802177824077835 1.0770340105260718
+estos se les cambiara diagonalallll ACTUAL Y SIGUIENTE
+[0, 0, 1, 1]
+[<Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22D8C8>, <Vertex.Vertex object at 0x0E22D640>] vertexes de t
+0.3729328949545918 0.4651623082844214
+2.8802177824077835 1.0770340105260718
+3.364833927242616 0.3644636216334316
+[<Vertex.Vertex object at 0x0E22DFE8>, <Vertex.Vertex object at 0x0E22D640>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de n
+0.0 0.0
+3.364833927242616 0.3644636216334316
+2.8802177824077835 1.0770340105260718
+atriangulso qls se q hay uno dentro del otro w
+False q onda fuemalo o no
+[<Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22D8C8>, <Vertex.Vertex object at 0x0E22D640>] vertexes de t
+0.3729328949545918 0.4651623082844214
+2.8802177824077835 1.0770340105260718
+3.364833927242616 0.3644636216334316
+[<Vertex.Vertex object at 0x0E22DFE8>, <Vertex.Vertex object at 0x0E22D640>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de n
+0.0 0.0
+3.364833927242616 0.3644636216334316
+2.8802177824077835 1.0770340105260718
+lo deaqii son los nuevos generados al cambiar duagonal
+0 1
+me da miedo esto pq los verties como q creo q nno van a salir iguales aunq sean iguaales      
+[<Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22DFE8>, <Vertex.Vertex object at 0x0E22D640>] vertexes de t
+0.3729328949545918 0.4651623082844214
+0.0 0.0
+3.364833927242616 0.3644636216334316
+[<Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22DFE8>, <Vertex.Vertex object at 0x0E22D640>] vertexes de n
+0.3729328949545918 0.4651623082844214
+0.0 0.0
+3.364833927242616 0.3644636216334316
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 2
+[<Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22DFE8>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de t
+0.3729328949545918 0.4651623082844214
+0.0 0.0
+2.8802177824077835 1.0770340105260718
+[<Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22DFE8>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de n
+0.3729328949545918 0.4651623082844214
+0.0 0.0
+2.8802177824077835 1.0770340105260718
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 2
+[<Vertex.Vertex object at 0x0E22D9B8>, <Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de t
+1.5521751412575626 1.8503894044281162
+0.3729328949545918 0.4651623082844214
+2.8802177824077835 1.0770340105260718
+[<Vertex.Vertex object at 0x0E22D9B8>, <Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de n
+1.5521751412575626 1.8503894044281162
+0.3729328949545918 0.4651623082844214
+2.8802177824077835 1.0770340105260718
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 2
+[<Vertex.Vertex object at 0x0E22D538>, <Vertex.Vertex object at 0x0E22D9B8>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de t
+1.6824864215884903 1.9741685231933639
+1.5521751412575626 1.8503894044281162
+2.8802177824077835 1.0770340105260718
+[<Vertex.Vertex object at 0x0E22D538>, <Vertex.Vertex object at 0x0E22D9B8>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de n
+1.6824864215884903 1.9741685231933639
+1.5521751412575626 1.8503894044281162
+2.8802177824077835 1.0770340105260718
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 2
+[<Vertex.Vertex object at 0x0E22D538>, <Vertex.Vertex object at 0x0E22D8C8>, <Vertex.Vertex object at 0x0E242388>] vertexes de t
+1.6824864215884903 1.9741685231933639
+2.8802177824077835 1.0770340105260718
+2.0 3.0
+[<Vertex.Vertex object at 0x0E22D538>, <Vertex.Vertex object at 0x0E22D8C8>, <Vertex.Vertex object at 0x0E242388>] vertexes de n
+1.6824864215884903 1.9741685231933639
+2.8802177824077835 1.0770340105260718
+2.0 3.0
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 2
+[<Vertex.Vertex object at 0x0E22DD48>, <Vertex.Vertex object at 0x0E242388>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de t
+3.559395811934089 1.2237222256258335
+2.0 3.0
+2.8802177824077835 1.0770340105260718
+[<Vertex.Vertex object at 0x0E22DD48>, <Vertex.Vertex object at 0x0E242388>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de n
+3.559395811934089 1.2237222256258335
+2.0 3.0
+2.8802177824077835 1.0770340105260718
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 2
+[<Vertex.Vertex object at 0x0E22DD48>, <Vertex.Vertex object at 0x0E22DAC0>, <Vertex.Vertex object at 0x0E242388>] vertexes de t
+3.559395811934089 1.2237222256258335
+4.0 1.5
+2.0 3.0
+[<Vertex.Vertex object at 0x0E22DD48>, <Vertex.Vertex object at 0x0E22DAC0>, <Vertex.Vertex object at 0x0E242388>] vertexes de n
+3.559395811934089 1.2237222256258335
+4.0 1.5
+2.0 3.0
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 2
+[<Vertex.Vertex object at 0x0E22D820>, <Vertex.Vertex object at 0x0E242388>, <Vertex.Vertex object at 0x0E22DAC0>] vertexes de t
+4.0 4.0
+2.0 3.0
+4.0 1.5
+[<Vertex.Vertex object at 0x0E22D820>, <Vertex.Vertex object at 0x0E242388>, <Vertex.Vertex object at 0x0E22DAC0>] vertexes de n
+4.0 4.0
+2.0 3.0
+4.0 1.5
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 2
+<Triangle.Triangle object at 0x0F672A78> cantidado
+<Triangle.Triangle object at 0x0F824CB8> cantidado
+[<Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22DFE8>, <Vertex.Vertex object at 0x0E22D640>] vertexes de t
+0.3729328949545918 0.4651623082844214
+0.0 0.0
+3.364833927242616 0.3644636216334316
+[<Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22DFE8>, <Vertex.Vertex object at 0x0E22D640>] vertexes de n
+0.3729328949545918 0.4651623082844214
+0.0 0.0
+3.364833927242616 0.3644636216334316
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 3
+[<Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22D8C8>, <Vertex.Vertex object at 0x0E22D640>] vertexes de t
+0.3729328949545918 0.4651623082844214
+2.8802177824077835 1.0770340105260718
+3.364833927242616 0.3644636216334316
+[<Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22D8C8>, <Vertex.Vertex object at 0x0E22D640>] vertexes de n
+0.3729328949545918 0.4651623082844214
+2.8802177824077835 1.0770340105260718
+3.364833927242616 0.3644636216334316
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 3
+[<Vertex.Vertex object at 0x0E22D9B8>, <Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de t
+1.5521751412575626 1.8503894044281162
+0.3729328949545918 0.4651623082844214
+2.8802177824077835 1.0770340105260718
+[<Vertex.Vertex object at 0x0E22D9B8>, <Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de n
+1.5521751412575626 1.8503894044281162
+0.3729328949545918 0.4651623082844214
+2.8802177824077835 1.0770340105260718
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 3
+[<Vertex.Vertex object at 0x0E22D538>, <Vertex.Vertex object at 0x0E22D9B8>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de t
+1.6824864215884903 1.9741685231933639
+1.5521751412575626 1.8503894044281162
+2.8802177824077835 1.0770340105260718
+[<Vertex.Vertex object at 0x0E22D538>, <Vertex.Vertex object at 0x0E22D9B8>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de n
+1.6824864215884903 1.9741685231933639
+1.5521751412575626 1.8503894044281162
+2.8802177824077835 1.0770340105260718
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 3
+[<Vertex.Vertex object at 0x0E22D538>, <Vertex.Vertex object at 0x0E22D8C8>, <Vertex.Vertex object at 0x0E242388>] vertexes de t
+1.6824864215884903 1.9741685231933639
+2.8802177824077835 1.0770340105260718
+2.0 3.0
+[<Vertex.Vertex object at 0x0E22D538>, <Vertex.Vertex object at 0x0E22D8C8>, <Vertex.Vertex object at 0x0E242388>] vertexes de n
+1.6824864215884903 1.9741685231933639
+2.8802177824077835 1.0770340105260718
+2.0 3.0
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 3
+[<Vertex.Vertex object at 0x0E22DD48>, <Vertex.Vertex object at 0x0E242388>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de t
+3.559395811934089 1.2237222256258335
+2.0 3.0
+2.8802177824077835 1.0770340105260718
+[<Vertex.Vertex object at 0x0E22DD48>, <Vertex.Vertex object at 0x0E242388>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de n
+3.559395811934089 1.2237222256258335
+2.0 3.0
+2.8802177824077835 1.0770340105260718
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 3
+[<Vertex.Vertex object at 0x0E22DD48>, <Vertex.Vertex object at 0x0E22DAC0>, <Vertex.Vertex object at 0x0E242388>] vertexes de t
+3.559395811934089 1.2237222256258335
+4.0 1.5
+2.0 3.0
+[<Vertex.Vertex object at 0x0E22DD48>, <Vertex.Vertex object at 0x0E22DAC0>, <Vertex.Vertex object at 0x0E242388>] vertexes de n
+3.559395811934089 1.2237222256258335
+4.0 1.5
+2.0 3.0
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 3
+[<Vertex.Vertex object at 0x0E22D820>, <Vertex.Vertex object at 0x0E242388>, <Vertex.Vertex object at 0x0E22DAC0>] vertexes de t
+4.0 4.0
+2.0 3.0
+4.0 1.5
+[<Vertex.Vertex object at 0x0E22D820>, <Vertex.Vertex object at 0x0E242388>, <Vertex.Vertex object at 0x0E22DAC0>] vertexes de n
+4.0 4.0
+2.0 3.0
+4.0 1.5
+esta dos veces cada uno ACA PARA VER EL ACTUAL Q POR ALGUNA RAZON NO TA 3
+[<Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22DFE8>, <Vertex.Vertex object at 0x0E22D640>] vertexes de t
+0.3729328949545918 0.4651623082844214
+0.0 0.0
+3.364833927242616 0.3644636216334316
+[<Vertex.Vertex object at 0x0E22D4A8>, <Vertex.Vertex object at 0x0E22DFE8>, <Vertex.Vertex object at 0x0E22D8C8>] vertexes de n
+0.3729328949545918 0.4651623082844214
+0.0 0.0
+2.8802177824077835 1.0770340105260718
+ACTUAL Y SIGUIENTE
+False 0 ??
